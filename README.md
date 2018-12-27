@@ -1,3 +1,4 @@
 # Algorithms
 
-## Repository for archiving algorithm problem solutions 
+## Description
+Repository for archiving algorithm problem solutions 
